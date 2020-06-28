@@ -18,3 +18,4 @@ Each recipe links to the spec file in [cypress/component](cypress/component) fol
 1. [Invokes given callback](cypress/component/1-invoke-callback.js)
 2. Changes current route
 3. [High Order Component](cypress/component/3-hoc.js)
+4. [Component cleans up on unmount](cypress/component/4-unmount.js)
