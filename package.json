@@ -19,7 +19,8 @@
   "homepage": "https://github.com/bahmutov/12-testing-recipes#readme",
   "devDependencies": {
     "cypress": "4.9.0",
-    "cypress-react-unit-test": "4.9.0"
+    "cypress-react-unit-test": "4.9.0",
+    "prettier": "2.0.5"
   },
   "dependencies": {
     "react": "16.13.1",
