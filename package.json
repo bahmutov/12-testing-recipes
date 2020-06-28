@@ -20,5 +20,9 @@
   "devDependencies": {
     "cypress": "4.9.0",
     "cypress-react-unit-test": "4.9.0"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }

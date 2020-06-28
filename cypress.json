@@ -1,5 +1,8 @@
 {
   "experimentalComponentTesting": true,
   "fixturesFolder": false,
-  "pluginsFile": false
+  "pluginsFile": false,
+  "env": {
+    "coverage": false
+  }
 }
