@@ -1,4 +1,5 @@
 # 12-testing-recipes
+
 > 12 common testing situations when working with React
 
 ## Use
@@ -14,4 +15,6 @@ yarn cypress open
 
 Each recipe links to the spec file in [cypress/component](cypress/component) folder
 
-1. [Invokes given callback]
+1. [Invokes given callback](cypress/component/1-invoke-callback.js)
+2. Changes current route
+3. [High Order Component](cypress/component/3-hoc.js)
