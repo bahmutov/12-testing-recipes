@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/bahmutov/12-testing-recipes#readme",
   "devDependencies": {
+    "@testing-library/react-hooks": "3.3.0",
     "cypress": "4.9.0",
     "cypress-react-unit-test": "4.9.0",
     "prettier": "2.0.5"

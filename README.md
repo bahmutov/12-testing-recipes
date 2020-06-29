@@ -21,3 +21,5 @@ Each recipe links to the spec file in [cypress/component](cypress/component) fol
 4. [Component cleans up on unmount](cypress/component/4-unmount.js)
 5. [Depends on Context Provider](cypress/component/5-provider.js)
 6. [Uses functions that depend on time](cypress/component/6-time.js)
+7. [Custom hooks](cypress/component/7-hooks.js)
+8. [Portal](cypress/component/8-portal.js)
