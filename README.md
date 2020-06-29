@@ -2,7 +2,7 @@
 
 > 12 common testing situations when working with React using [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test)
 
-Read the blog post at [dev.to](https://dev.to/bahmutov/12-recipes-for-testing-react-applications-using-cypress-react-unit-test-46g6)
+Read the blog post [12 Recipes for testing React applications using cypress-react-unit-test](https://dev.to/bahmutov/12-recipes-for-testing-react-applications-using-cypress-react-unit-test-46g6)
 
 ## Use
 
