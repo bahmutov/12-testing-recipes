@@ -25,3 +25,5 @@ Each recipe links to the spec file in [cypress/component](cypress/component) fol
 8. [Portal](cypress/component/8-portal.js)
 9. [Focus is on correct element](cypress/component/9-focus.js)
 10. [Order of elements](cypress/component/10-order.js)
+11. [Selected option](cypress/component/11-selected.js)
+12. [Dynamic page titles](cypress/component/12-title.js)
