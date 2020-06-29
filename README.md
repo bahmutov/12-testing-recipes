@@ -19,3 +19,4 @@ Each recipe links to the spec file in [cypress/component](cypress/component) fol
 2. Changes current route
 3. [High Order Component](cypress/component/3-hoc.js)
 4. [Component cleans up on unmount](cypress/component/4-unmount.js)
+5. [Depends on Context Provider](cypress/component/5-provider.js)
